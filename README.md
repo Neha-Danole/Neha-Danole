@@ -138,12 +138,7 @@ Feel free to reach out for collaboration, opportunities, or just to chat about t
 
 ---
 
-## 📈 GitHub Stats
 
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha-Danole&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Danole&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 *Last Updated: July 2026 | Always open to feedback and collaboration!* 🚀
