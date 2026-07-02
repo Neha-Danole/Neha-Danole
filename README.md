@@ -2,13 +2,13 @@
 
 **Full-Stack Developer | ML Enthusiast | Open to Opportunities**
 
-📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com)  
+📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/neha-danole-7494b32ba) | 💻 [LeetCode](https://leetcode.com/u/NehaDanole) | 🍳 [CodeChef](https://codechef.com/users/nehadanole)
 
 ---
 
 ## 🎯 About Me
-I'm a **Computer Science Engineering graduate** from Sharad Institute of Technology College of Engineering with a passion for solving real-world problems through technology. With a strong foundation in full-stack development and a keen interest in healthcare tech, I'm committed to building scalable, user-centric applications that make a meaningful impact.296780
+I'm a **Computer Science Engineering graduate** from Sharad Institute of Technology College of Engineering with a passion for solving real-world problems through technology. With a strong foundation in development , I'm committed to building scalable, user-centric applications that make a meaningful impact.
 
 ## Career Objective
 Seeking to apply a Computer Science degree and coding skills to solve real-world problems and contribute to society.
@@ -18,8 +18,8 @@ Seeking to apply a Computer Science degree and coding skills to solve real-world
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks
-- **Languages:** Java, C++, Python, JavaScript, HTML, CSS
-- **Web Development:** ASP.NET, PHP, Bootstrap, REST APIs
+- **Languages:** Java, C++, Python, , HTML, CSS
+- **Web Development:** ASP.NET ,  Bootstrap, REST APIs
 - **Databases:** SQL Server, MySQL
 
 ### Tools & Technologies
@@ -59,7 +59,7 @@ Automated pneumonia detection system integrating X-ray imaging, blood tests, and
 ---
 
 ### 2️⃣ Explore Your Journey - Tourism Website
-**Web Development | Full-Stack | PHP | MySQL**
+**Web Development |  PHP | MySQL**
 
 Comprehensive tourism platform with destination pages, booking system, and AI-powered chatbot.
 
@@ -103,7 +103,7 @@ Secure fee management portal for educational institutions with real-time notific
 ## 🏆 Certifications & Achievements
 
 - ✅ **IMPETUS 2K25** - Volunteer Recognition
-- ✅ **VALUE ADDED PROGRAM** - Essential Of Data Handling
+- ✅ **VALUE ADDED PROGRAM** - Essentials of Data Handling
 - ✅ **INFOSYS SPRINGBOARD** - Software Engineering and Agile Development
 
 ---
@@ -122,7 +122,7 @@ Continuously improving problem-solving skills through competitive programming.
 ## 🎯 What I'm Looking For
 
 - 🔍 Full-time opportunities as a Software Developer / Full-Stack Developer
-- 🌱 Projects involving web development, machine learning,testing
+- 🌱 Projects involving web development, machine learning, testing
 - 🤝 Collaborative teams passionate about quality and innovation
 - 💡 Roles offering growth opportunities in emerging technologies
 
@@ -146,4 +146,4 @@ Feel free to reach out for collaboration, opportunities, or just to chat about t
 
 ---
 
-*Last Updated: July 2025 | Always open to feedback and collaboration!* 🚀
+*Last Updated: July 2026 | Always open to feedback and collaboration!* 🚀
