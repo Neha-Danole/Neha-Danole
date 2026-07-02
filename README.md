@@ -94,9 +94,9 @@ Secure fee management portal for educational institutions with real-time notific
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| **B.Tech - Computer Science & Engineering** | Sharad Institute of Technology, Yadrav | 2021-2025 | 8.45/10 CGPA |
-| **HSC** | Sharad Science and Commerce College, Yadrav | 2019-2021 | 78.50% |
-| **SSC** | Ramjanseth Bandar Vidyalay, Shirdhon | 2019 | 96% |
+| **B.Tech - Computer Science & Engineering** | Sharad Institute of Technology, Yadrav | 2023-2027 | 8.45/10 CGPA |
+| **HSC** | Sharad Science and Commerce College, Yadrav | 2023 | 78.50% |
+| **SSC** | Ramjanseth Bandar Vidyalay, Shirdhon | 2021 | 96% |
 
 ---
 
