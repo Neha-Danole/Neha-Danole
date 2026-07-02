@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | ML Enthusiast | Open to Opportunities**
 
-📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com)
+📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com) |
 🔗 [LinkedIn](https://linkedin.com/in/neha-danole-7494b32ba) | 💻 [LeetCode](https://leetcode.com/u/NehaDanole) | 🍳 [CodeChef](https://codechef.com/users/nehadanole)
 
 ---
