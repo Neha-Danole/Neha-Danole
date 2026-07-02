@@ -1,16 +1,149 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha Ramesh Danole
 
-<!--
-**Neha-Danole/Neha-Danole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | ML Enthusiast | Open to Opportunities**
 
-Here are some ideas to get you started:
+📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/neha-danole-7494b32ba) | 💻 [LeetCode](https://leetcode.com/u/NehaDanole) | 🍳 [CodeChef](https://codechef.com/users/nehadanole)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+I'm a **Computer Science Engineering graduate** from Sharad Institute of Technology College of Engineering with a passion for solving real-world problems through technology. With a strong foundation in full-stack development and a keen interest in healthcare tech, I'm committed to building scalable, user-centric applications that make a meaningful impact.296780
+
+## Career Objective
+Seeking to apply a Computer Science degree and coding skills to solve real-world problems and contribute to society.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Frameworks
+- **Languages:** Java, C++, Python, JavaScript, HTML, CSS
+- **Web Development:** ASP.NET, PHP, Bootstrap, REST APIs
+- **Databases:** SQL Server, MySQL
+
+### Tools & Technologies
+- **Development:** Visual Studio, VS Code, Git
+- **Testing & QA:** Postman, Software Testing, Docker
+- **Other:** Problem-Solving, Data Structures & Algorithms
+
+---
+
+## 💼 Professional Experience
+
+### Web Application Developer Intern
+**Revolution IT Solution, Kolhapur** | *May 2025 - July 2025*
+
+- Developed responsive web applications using HTML, CSS, JavaScript, and ASP.NET
+- Implemented backend functionalities using SQL Server database management
+- Designed database schemas following industry best practices
+- Collaborated with senior developers for code optimization
+- Gained practical experience with Bootstrap framework and REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Early Detection of Lung Disease (Pneumonia)
+**Machine Learning | Python | Image Processing**
+
+Automated pneumonia detection system integrating X-ray imaging, blood tests, and oxygen level monitoring.
+
+**Key Achievements:**
+- Improved diagnostic accuracy by 30%
+- Reduced detection time significantly
+- Assists healthcare professionals in early pneumonia identification
+
+**Technologies:** Machine Learning, Python, Data Analysis, Image Processing
+
+---
+
+### 2️⃣ Explore Your Journey - Tourism Website
+**Web Development | Full-Stack | PHP | MySQL**
+
+Comprehensive tourism platform with destination pages, booking system, and AI-powered chatbot.
+
+**Key Features:**
+- Responsive design with modern UI
+- Interactive destination galleries
+- AI chatbot for travel recommendations
+- Dynamic content management system
+- Integrated contact system
+
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL, Chatbot Integration
+
+---
+
+### 3️⃣ EduPay Fee Portal
+**ASP.NET | Database | Payment System**
+
+Secure fee management portal for educational institutions with real-time notifications.
+
+**Key Features:**
+- Secure payment processing
+- Real-time transaction notifications
+- Student profile management
+- Fee history tracking
+- Automated reporting
+
+**Technologies:** ASP.NET, C#, SQL Server, HTML, CSS, JavaScript
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| **B.Tech - Computer Science & Engineering** | Sharad Institute of Technology, Yadrav | 2021-2025 | 8.45/10 CGPA |
+| **HSC** | Sharad Science and Commerce College, Yadrav | 2019-2021 | 78.50% |
+| **SSC** | Ramjanseth Bandar Vidyalay, Shirdhon | 2019 | 96% |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ **IMPETUS 2K25** - Volunteer Recognition
+- ✅ **VALUE ADDED PROGRAM** - Essential Of Data Handling
+- ✅ **INFOSYS SPRINGBOARD** - Software Engineering and Agile Development
+
+---
+
+## 📊 Competitive Programming
+
+Active contributor on multiple coding platforms:
+
+- 💻 **LeetCode:** [Profile](https://leetcode.com/u/NehaDanole)
+- 🍳 **CodeChef:** [Profile](https://codechef.com/users/nehadanole)
+
+Continuously improving problem-solving skills through competitive programming.
+
+---
+
+## 🎯 What I'm Looking For
+
+- 🔍 Full-time opportunities as a Software Developer / Full-Stack Developer
+- 🌱 Projects involving web development, machine learning,testing
+- 🤝 Collaborative teams passionate about quality and innovation
+- 💡 Roles offering growth opportunities in emerging technologies
+
+---
+
+## 📞 Let's Connect!
+
+Feel free to reach out for collaboration, opportunities, or just to chat about tech!
+
+- 📧 **Email:** [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com)
+- 📱 **Phone:** +91-9370296780
+- 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/neha-danole-7494b32ba)
+
+---
+
+## 📈 GitHub Stats
+
+![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha-Danole&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Danole&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+*Last Updated: July 2025 | Always open to feedback and collaboration!* 🚀
