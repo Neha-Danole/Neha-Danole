@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neha Ramesh Danole
 
-**Full-Stack Developer | ML Enthusiast | Open to Opportunities**
+## QA | Software Developer | Open to Opportunities**
 
 📍 Kolhapur, Maharashtra | 📧 [nehadanole06@gmail.com](mailto:nehadanole06@gmail.com) |
 🔗 [LinkedIn](https://linkedin.com/in/neha-danole-7494b32ba) | 💻 [LeetCode](https://leetcode.com/u/NehaDanole) | 🍳 [CodeChef](https://codechef.com/users/nehadanole)
@@ -19,14 +19,16 @@ Seeking to apply a Computer Science degree and coding skills to solve real-world
 
 ### Languages & Frameworks
 - **Languages:** Java, C++, Python, , HTML, CSS
-- **Web Development:** ASP.NET ,  Bootstrap, REST APIs
+- **Web Development:** ASP.NET , REST APIs
 - **Databases:** SQL Server, MySQL
 
 ### Tools & Technologies
 - **Development:** Visual Studio, VS Code, Git
 - **Testing & QA:** Postman, Software Testing, Docker
+-  **Testing Types:** Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Non-Functional Testing, API 
+                      Testing
 - **Other:** Problem-Solving, Data Structures & Algorithms
-
+  
 ---
 
 ## 💼 Professional Experience
