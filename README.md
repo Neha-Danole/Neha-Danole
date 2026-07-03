@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 About Me
-I'm a **Computer Science Engineering graduate** from Sharad Institute of Technology College of Engineering with a passion for solving real-world problems through technology. With a strong foundation in development , I'm committed to building scalable, user-centric applications that make a meaningful impact.
+I'm a **Computer Science Engineering graduate** from Sharad Institute of Technology College of Engineering with a passion for solving real-world problems through technology. With a strong foundation in development and testing , I'm committed to building scalable, user-centric applications that make a meaningful impact.
 
 ## Career Objective
 Seeking to apply a Computer Science degree and coding skills to solve real-world problems and contribute to society.
