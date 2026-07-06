@@ -123,7 +123,7 @@ Continuously improving problem-solving skills through competitive programming.
 
 ## 🎯 What I'm Looking For
 
-- 🔍 Full-time opportunities as a Software Developer / Full-Stack Developer
+- 🔍 Full-time opportunities as a Software Developer and QA
 - 🌱 Projects involving web development, machine learning, testing
 - 🤝 Collaborative teams passionate about quality and innovation
 - 💡 Roles offering growth opportunities in emerging technologies
